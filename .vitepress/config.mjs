@@ -12,7 +12,7 @@ import { withMermaid } from "vitepress-plugin-mermaid";
 export default withMermaid({
   // base:"/webvitepress//",
   // srcDir: "./docs", // 配置md文档的映射目录，默认根路径
-  head: [["link", { rel: "icon", href: "/webvitepress/logo.svg" }]],
+  head: [["link", { rel: "icon", href: "/logo.svg" }]],
   title: "Firefly的文档网站",
   description: "A bugDesigner Site",
   themeConfig: {

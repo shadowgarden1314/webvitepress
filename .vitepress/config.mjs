@@ -25,7 +25,7 @@ export default withMermaid({
     nav: [
 	  {
         text: "动漫",
-        items: [{ text: "React", link: "/docs/dongman/dongman" }],
+        items: [{ text: "动漫", link: "/docs/dongman/dongman" }],
       },
       {
         text: "前端",
